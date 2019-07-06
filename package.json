@@ -9,7 +9,7 @@
   "dependencies": {
     "moment": "^2.24.0",
     "react": "16.6.3",
-    "react-native": "0.58.1",
+    "react-native": "^0.60.0",
     "react-native-swiper": "^1.5.14"
   },
   "devDependencies": {
